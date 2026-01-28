@@ -1,0 +1,45 @@
+/* * {
+
+    outline: 1px solid magenta;
+} */
+
+body {
+
+    font-size: 18pt;
+}
+
+.center {
+
+    text-align: center;
+}
+
+
+.blue {
+
+    color: blue;
+}
+
+.red {
+    
+    color: red;
+}
+
+.pink {
+
+    color: pink;
+}
+
+.bold {
+
+    font-weight: bold;
+}
+
+.italic {
+
+    font-style: italic;
+}
+
+.orange {
+
+    color: orange;
+}
